@@ -1,4 +1,6 @@
 # Splunk4Ninjas - Machine Learning for Security
+- 워크샵 이벤트 등록: https://show.splunk.com/event/673152beb7367c17bf48b8c2 
+- [교육 자료 PDF](./[2daysSC]%20Splunk4Ninjas%20-%20Machine%20Learning%20for%20Security.pdf)
 ## Lab 1 - Detect Remote Password Spraying attacks
 ### Method 1 - using SPL
 ```
